@@ -1,0 +1,82 @@
+[
+  {
+    "key": "squid:S2259",
+    "name": "Null pointers should not be dereferenced"
+  },
+  {
+    "key": "squid:S2184",
+    "name": "Math operands should be cast before assignment"
+  },
+  {
+    "key": "common-java:DuplicatedBlocks",
+    "name": "Source files should not have any duplicated blocks"
+  },
+  {
+    "key": "squid:S2699",
+    "name": "Tests should include assertions"
+  },
+  {
+    "key": "squid:S1199",
+    "name": "Nested code blocks should not be used"
+  },
+  {
+    "key": "squid:S4973",
+    "name": "Strings and Boxed types should be compared using \"equals()\""
+  },
+  {
+    "key": "squid:S106",
+    "name": "Standard outputs should not be used directly to log anything"
+  },
+  {
+    "key": "squid:S1319",
+    "name": "Declarations should use Java collection interfaces such as \"List\" rather than specific implementation classes such as \"LinkedList\""
+  },
+  {
+    "key": "squid:UselessImportCheck",
+    "name": "Unnecessary imports should be removed"
+  },
+  {
+    "key": "squid:S1155",
+    "name": "Collection.isEmpty() should be used to test for emptiness"
+  },
+  {
+    "key": "squid:S3776",
+    "name": "Cognitive Complexity of methods should not be too high"
+  },
+  {
+    "key": "squid:S2885",
+    "name": "Non-thread-safe fields should not be static"
+  },
+  {
+    "key": "squid:S1149",
+    "name": "Synchronized classes Vector, Hashtable, Stack and StringBuffer should not be used"
+  },
+  {
+    "key": "squid:S1125",
+    "name": "Boolean literals should not be redundant"
+  },
+  {
+    "key": "squid:S1126",
+    "name": "Return of boolean expressions should not be wrapped into an \"if-then-else\" statement"
+  },
+  {
+    "key": "squid:S1192",
+    "name": "String literals should not be duplicated"
+  },
+  {
+    "key": "squid:S3655",
+    "name": "Optional value should only be accessed after calling isPresent()"
+  },
+  {
+    "key": "squid:S1135",
+    "name": "Track uses of \"TODO\" tags"
+  },
+  {
+    "key": "squid:ClassVariableVisibilityCheck",
+    "name": "Class variable fields should not have public accessibility"
+  },
+  {
+    "key": "squid:S00119",
+    "name": "Type parameter names should comply with a naming convention"
+  }
+]

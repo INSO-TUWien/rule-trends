@@ -1,0 +1,24 @@
+[
+  {
+    "date": 1561845599,
+    "issues": [
+      {
+        "key": "AW4s27UEN3Ybhp1mfo9C",
+        "rule": "squid:S2259",
+        "status": "OPEN",
+        "creationDate": 1559165842
+      }
+    ]
+  },
+  {
+    "date": 1561931999,
+    "issues": [
+      {
+        "key": "AW4s27UEN3Ybhp1mfo9D",
+        "rule": "squid:S2259",
+        "status": "OPEN",
+        "creationDate": 1559165842
+      }
+    ]
+  }
+]

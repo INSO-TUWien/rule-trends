@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>at.rogetzer.sonar-rule-trends</groupId>
+    <!-- it's recommended to follow the pattern "sonar-{key}-plugin", for example "sonar-myphp-plugin" -->
+    <artifactId>sonar-ruletrends-plugin</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <!-- this is important for sonar-packaging-maven-plugin -->
+    <packaging>sonar-plugin</packaging>
+
+    <name>Rule Trend Visualization</name>
+    <description>Plugin for visualizing rule trends in SonarQube</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.sonarsource.sonarqube</groupId>
+            <artifactId>sonar-plugin-api</artifactId>
+            <!-- minimal version of SonarQube to support. -->
+            <version>6.7</version>
+            <!-- mandatory scope -->
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.sonarsource.sonar-packaging-maven-plugin</groupId>
+                <artifactId>sonar-packaging-maven-plugin</artifactId>
+                <version>1.18.0.372</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <!-- the entry-point class that extends org.sonar.api.SonarPlugin -->
+                    <pluginClass>at.rogetzer.ruletrends.RuleTrendPlugin</pluginClass>
+
+                    <!-- advanced properties can be set here. See paragraph "Advanced Build Properties". -->
+                    <pluginKey>ruletrends</pluginKey>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>6</source>
+                    <target>6</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>com.github.eirslett</groupId>
+                <artifactId>frontend-maven-plugin</artifactId>
+                <version>1.6</version>
+                <executions>
+                    <execution>
+                        <phase>generate-resources</phase>
+                        <id>install node and yarn</id>
+                        <goals>
+                            <goal>install-node-and-yarn</goal>
+                        </goals>
+                        <configuration>
+                            <nodeVersion>v10.14.2</nodeVersion>
+                            <yarnVersion>v1.1.0</yarnVersion>
+                        </configuration>
+                    </execution>
+                    <execution>
+                        <id>yarn install</id>
+                        <goals>
+                            <goal>yarn</goal>
+                        </goals>
+                    </execution>
+                    <execution>
+                        <phase>generate-resources</phase>
+                        <id>yarn run script</id>
+                        <goals>
+                            <goal>yarn</goal>
+                        </goals>
+                        <configuration>
+                            <arguments>run build</arguments>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+</project>

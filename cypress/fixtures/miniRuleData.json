@@ -1,0 +1,10 @@
+[
+  {
+    "key": "squid:S2259",
+    "name": "Null pointers should not be dereferenced"
+  },
+  {
+    "key": "squid:S2184",
+    "name": "Math operands should be cast before assignment"
+  }
+]

@@ -1,0 +1,108 @@
+.wrapper {
+  margin: 0 auto;
+  text-align: center;
+  width: 80%;
+}
+
+.chart {
+  margin-top: 50px;
+  width: 100%;
+}
+
+.description {
+  margin-bottom: 10px;
+}
+
+.loadingBar {
+  margin-top: 50px;
+  font-size: x-large;
+}
+
+.ruleMultiSelect {
+  margin: 0 auto;
+  width: 75%;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.ruletrends-tooltip {
+  border: solid darkgray 1px;
+  border-radius: 5px;
+  background: white;
+  opacity: 0.9;
+  padding: 10px;
+  max-width: 200px;
+}
+
+.ruletrends-tooltip > .date {
+  font-weight: bold;
+}
+
+.ruletrends-tooltip > .ruleKey {
+  font-style: italic;
+}
+
+#testContainer {
+  background-color: red;
+}
+
+#myRect {
+  fill-opacity: 0.5;
+}
+
+#mySvg {
+  opacity: 0;
+  overflow: visible;
+}
+
+.recharts-cartesian-axis-tick:last-of-type {
+  display: none;
+}
+
+.recharts-cartesian-axis-tick:first-of-type {
+  display: none;
+}
+
+.wrapper {
+  background-color: #f3f3f3;
+  color: #444;
+  font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+  font-size: 13px;
+}
+
+.wrapper h1 {
+  font-weight: bold;
+  margin: 0;
+  color: #444;
+  font-size: 16px;
+}
+
+.wrapper p {
+  margin-top: 0;
+}
+
+.recharts-default-legend {
+  padding-left: 60px !important;
+}
+
+#btnResetZoom {
+  position: relative;
+  left: calc(50% - 100px);
+  width: 100px;
+  top: 60px;
+  z-index: 1;
+  padding: 5px;
+}
+
+.btn-reset-zoom-active {
+}
+
+.btn-reset-zoom-inactive {
+  opacity: 0;
+}

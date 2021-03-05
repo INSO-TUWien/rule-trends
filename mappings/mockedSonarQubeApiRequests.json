@@ -1,0 +1,1586 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL5",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"140\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLa",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"109\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL8",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"143\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMM",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"159\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLP",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"98\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPLw",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"131\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPLy",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"133\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLF",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"88\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMD",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"150\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLZ",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"108\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAsmuxkHPug4J6HOnZ",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-25T21:53:25+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"81\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLO",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"97\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLh",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"116\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMB",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"148\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMG",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"153\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AW4s27jtN3Ybhp1mfo9l",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"user\":\"admin\",\"userName\":\"Administrator\",\"creationDate\":\"2020-03-03T14:35:21+0000\",\"diffs\":[{\"key\":\"severity\",\"newValue\":\"BLOCKER\",\"oldValue\":\"MINOR\"}]},{\"user\":\"admin\",\"userName\":\"Administrator\",\"creationDate\":\"2020-03-03T14:35:42+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"status\",\"newValue\":\"RESOLVED\",\"oldValue\":\"OPEN\"}]},{\"user\":\"admin\",\"userName\":\"Administrator\",\"creationDate\":\"2020-03-03T14:36:05+0000\",\"diffs\":[{\"key\":\"resolution\",\"oldValue\":\"FIXED\"},{\"key\":\"status\",\"newValue\":\"REOPENED\",\"oldValue\":\"RESOLVED\"}]},{\"user\":\"admin\",\"userName\":\"Administrator\",\"creationDate\":\"2020-03-03T14:37:10+0000\",\"diffs\":[{\"key\":\"status\",\"newValue\":\"CONFIRMED\",\"oldValue\":\"REOPENED\"}]},{\"user\":\"admin\",\"userName\":\"Administrator\",\"creationDate\":\"2020-03-03T14:37:37+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FALSE-POSITIVE\"},{\"key\":\"status\",\"newValue\":\"RESOLVED\",\"oldValue\":\"CONFIRMED\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLQ",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"99\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLm",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"121\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLY",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"107\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMA",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"147\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLT",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"102\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLS",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"101\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL0",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"135\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLb",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"110\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMN",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"160\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMF",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"152\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLJ",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"92\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLH",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"90\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL3",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"138\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMT",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"166\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPLs",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"127\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMQ",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"163\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL-",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"145\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLj",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"118\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMO",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"161\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMK",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"157\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMY",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"171\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPML",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"158\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPK_",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-25T21:53:25+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"82\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLn",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"122\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMV",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"168\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLM",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"95\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMH",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"154\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLd",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"112\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLU",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"103\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL9",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"144\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMI",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"155\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLK",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"93\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLX",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"106\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL4",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"139\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLV",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"104\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLI",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"91\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLc",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"111\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLk",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"119\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL2",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"137\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLN",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"96\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL_",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"146\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMC",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"149\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPLz",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"134\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMU",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"167\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMJ",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"156\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPME",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"151\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPLr",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"126\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPLu",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"129\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLo",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"123\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXC1he7wCwBgp4GBTEW9",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-25T21:53:25+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"80\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPLx",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"132\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMS",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"165\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLf",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"114\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL6",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"141\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLW",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"105\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPLt",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"128\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLe",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"113\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLi",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"117\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMW",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"169\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLD",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"86\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL7",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"142\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLL",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"94\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPLv",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"130\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLG",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"89\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLR",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"100\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMR",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"164\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLp",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"124\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPL1",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"136\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLl",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"120\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMP",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"162\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLq",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"125\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx2kHPug4J6HPLg",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"115\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx0kHPug4J6HPLE",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"87\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/changelog?issue=AXDAtBx3kHPug4J6HPMX",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"changelog\":[{\"creationDate\":\"2020-04-20T15:49:31+0000\",\"diffs\":[{\"key\":\"resolution\",\"newValue\":\"FIXED\"},{\"key\":\"line\",\"oldValue\":\"170\"},{\"key\":\"status\",\"newValue\":\"CLOSED\",\"oldValue\":\"OPEN\"}]}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/search?componentKeys=test&p=2",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":150,\"p\":2,\"ps\":100,\"paging\":{\"pageIndex\":2,\"pageSize\":100,\"total\":150},\"effortTotal\":658,\"debtTotal\":658,\"issues\":[{\"key\":\"AW4s27n1N3Ybhp1mfo-D\",\"rule\":\"squid:S2699\",\"status\":\"OPEN\",\"creationDate\":\"2019-05-18T21:08:48+0000\"},{\"key\":\"AW4s27jtN3Ybhp1mfo9l\",\"rule\":\"squid:S00119\",\"status\":\"RESOLVED\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27lcN3Ybhp1mfo9v\",\"rule\":\"common-java:DuplicatedBlocks\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27lcN3Ybhp1mfo9w\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27lcN3Ybhp1mfo9x\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27lcN3Ybhp1mfo9y\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27lcN3Ybhp1mfo9z\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27lcN3Ybhp1mfo90\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27lcN3Ybhp1mfo91\",\"rule\":\"squid:S4973\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27kRN3Ybhp1mfo9n\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27kRN3Ybhp1mfo9o\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27kRN3Ybhp1mfo9p\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27kRN3Ybhp1mfo9q\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27kSN3Ybhp1mfo9r\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27kSN3Ybhp1mfo9s\",\"rule\":\"squid:S4973\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27l_N3Ybhp1mfo92\",\"rule\":\"common-java:DuplicatedBlocks\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27l_N3Ybhp1mfo93\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27l_N3Ybhp1mfo94\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27l_N3Ybhp1mfo95\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27l_N3Ybhp1mfo96\",\"rule\":\"squid:S1199\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27l_N3Ybhp1mfo97\",\"rule\":\"squid:S4973\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27l_N3Ybhp1mfo98\",\"rule\":\"squid:S106\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27l_N3Ybhp1mfo99\",\"rule\":\"squid:S106\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27nNN3Ybhp1mfo9-\",\"rule\":\"squid:S1319\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27fSN3Ybhp1mfo9T\",\"rule\":\"squid:UselessImportCheck\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27dJN3Ybhp1mfo9P\",\"rule\":\"squid:S1155\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27dJN3Ybhp1mfo9R\",\"rule\":\"squid:S3776\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27dJN3Ybhp1mfo9Q\",\"rule\":\"squid:S1155\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27ccN3Ybhp1mfo9O\",\"rule\":\"squid:S1155\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27bUN3Ybhp1mfo9K\",\"rule\":\"squid:S2885\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27bUN3Ybhp1mfo9L\",\"rule\":\"squid:S106\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27bUN3Ybhp1mfo9J\",\"rule\":\"squid:S1149\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27bUN3Ybhp1mfo9N\",\"rule\":\"squid:S106\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27jYN3Ybhp1mfo9k\",\"rule\":\"squid:S1125\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27hXN3Ybhp1mfo9Z\",\"rule\":\"squid:S1126\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27hXN3Ybhp1mfo9a\",\"rule\":\"squid:S3776\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27hZN3Ybhp1mfo9b\",\"rule\":\"squid:S1125\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27hZN3Ybhp1mfo9c\",\"rule\":\"squid:S106\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27hWN3Ybhp1mfo9Y\",\"rule\":\"squid:S1192\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27i6N3Ybhp1mfo9i\",\"rule\":\"squid:S3655\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27i6N3Ybhp1mfo9j\",\"rule\":\"squid:S1135\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27iIN3Ybhp1mfo9d\",\"rule\":\"squid:ClassVariableVisibilityCheck\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27iIN3Ybhp1mfo9e\",\"rule\":\"squid:ClassVariableVisibilityCheck\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27iIN3Ybhp1mfo9f\",\"rule\":\"squid:S3776\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27iIN3Ybhp1mfo9g\",\"rule\":\"squid:S1126\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27iIN3Ybhp1mfo9h\",\"rule\":\"squid:S1126\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27gqN3Ybhp1mfo9X\",\"rule\":\"squid:S00119\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27gbN3Ybhp1mfo9W\",\"rule\":\"squid:S00119\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27fwN3Ybhp1mfo9U\",\"rule\":\"squid:S00119\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"},{\"key\":\"AW4s27gEN3Ybhp1mfo9V\",\"rule\":\"squid:S00119\",\"status\":\"OPEN\",\"creationDate\":\"2017-11-22T14:37:05+0000\"}],\"components\":[],\"facets\":[]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/search?componentKeys=test&p=3",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":150,\"p\":3,\"ps\":100,\"paging\":{\"pageIndex\":3,\"pageSize\":100,\"total\":150},\"effortTotal\":658,\"debtTotal\":658,\"issues\":[],\"components\":[],\"facets\":[]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/issues/search?componentKeys=test&p=1",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":150,\"p\":1,\"ps\":100,\"paging\":{\"pageIndex\":1,\"pageSize\":100,\"total\":150},\"effortTotal\":658,\"debtTotal\":658,\"issues\":[{\"key\":\"AXDAtBx0kHPug4J6HPK_\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLD\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLE\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLF\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLG\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLH\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLI\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLJ\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLK\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLL\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLM\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLN\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLO\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLP\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLQ\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLR\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLS\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLT\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLU\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLV\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLW\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLX\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLY\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLZ\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLa\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLb\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLc\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLd\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLe\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLf\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLg\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLh\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLi\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLj\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLk\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLl\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLm\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLn\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLo\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLp\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx2kHPug4J6HPLq\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL-\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL0\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL1\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL2\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL3\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL4\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL5\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL6\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL7\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL8\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL9\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPL_\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPLr\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPLs\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPLt\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPLu\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPLv\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPLw\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPLx\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPLy\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPLz\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMA\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMB\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMC\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMD\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPME\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMF\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMG\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMH\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMI\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMJ\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMK\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPML\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMM\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMN\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMO\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMP\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMQ\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMR\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMS\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMT\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMU\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMV\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMW\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMX\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx3kHPug4J6HPMY\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLA\",\"rule\":\"squid:S1135\",\"status\":\"OPEN\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLB\",\"rule\":\"squid:S1135\",\"status\":\"OPEN\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAtBx0kHPug4J6HPLC\",\"rule\":\"squid:S1135\",\"status\":\"OPEN\",\"creationDate\":\"2020-03-09T19:09:28+0000\"},{\"key\":\"AXDAsmuxkHPug4J6HOnZ\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-09T19:07:22+0000\"},{\"key\":\"AXDAsmu0kHPug4J6HOna\",\"rule\":\"squid:S1135\",\"status\":\"OPEN\",\"creationDate\":\"2020-03-09T19:07:22+0000\"},{\"key\":\"AXC1he7wCwBgp4GBTEW9\",\"rule\":\"squid:S1135\",\"status\":\"CLOSED\",\"creationDate\":\"2020-03-07T15:03:21+0000\"},{\"key\":\"AW4s27UEN3Ybhp1mfo9D\",\"rule\":\"squid:S2259\",\"status\":\"OPEN\",\"creationDate\":\"2019-05-29T21:37:22+0000\"},{\"key\":\"AW4s27dyN3Ybhp1mfo9S\",\"rule\":\"squid:S2184\",\"status\":\"OPEN\",\"creationDate\":\"2019-05-29T19:47:12+0000\"},{\"key\":\"AW4s27kRN3Ybhp1mfo9m\",\"rule\":\"common-java:DuplicatedBlocks\",\"status\":\"OPEN\",\"creationDate\":\"2019-05-29T19:33:59+0000\"},{\"key\":\"AW4s27n0N3Ybhp1mfo9_\",\"rule\":\"squid:S2699\",\"status\":\"OPEN\",\"creationDate\":\"2019-05-18T21:08:48+0000\"},{\"key\":\"AW4s27n0N3Ybhp1mfo-A\",\"rule\":\"squid:S2699\",\"status\":\"OPEN\",\"creationDate\":\"2019-05-18T21:08:48+0000\"},{\"key\":\"AW4s27n1N3Ybhp1mfo-B\",\"rule\":\"squid:S2699\",\"status\":\"OPEN\",\"creationDate\":\"2019-05-18T21:08:48+0000\"},{\"key\":\"AW4s27n1N3Ybhp1mfo-C\",\"rule\":\"squid:S2699\",\"status\":\"OPEN\",\"creationDate\":\"2019-05-18T21:08:48+0000\"}],\"components\":[],\"facets\":[]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S2885",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S2885\",\"repo\":\"squid\",\"name\":\"Non-thread-safe fields should not be static\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Not all classes in the standard Java library were written to be thread-safe. Using them in a multi-threaded manner is highly likely to cause data\\nproblems or exceptions at runtime.</p>\\n<p>This rule raises an issue when an instance of <code>Calendar</code>, <code>DateFormat</code>, <code>javax.xml.xpath.XPath</code>, or\\n<code>javax.xml.validation.SchemaFactory</code> is marked <code>static</code>.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic class MyClass {\\n  private static SimpleDateFormat format = new SimpleDateFormat(\\\"HH-mm-ss\\\");  // Noncompliant\\n  private static Calendar calendar = Calendar.getInstance();  // Noncompliant\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic class MyClass {\\n  private SimpleDateFormat format = new SimpleDateFormat(\\\"HH-mm-ss\\\");\\n  private Calendar calendar = Calendar.getInstance();\\n</pre>\",\"mdDesc\":\"<p>Not all classes in the standard Java library were written to be thread-safe. Using them in a multi-threaded manner is highly likely to cause data\\nproblems or exceptions at runtime.</p>\\n<p>This rule raises an issue when an instance of <code>Calendar</code>, <code>DateFormat</code>, <code>javax.xml.xpath.XPath</code>, or\\n<code>javax.xml.validation.SchemaFactory</code> is marked <code>static</code>.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic class MyClass {\\n  private static SimpleDateFormat format = new SimpleDateFormat(\\\"HH-mm-ss\\\");  // Noncompliant\\n  private static Calendar calendar = Calendar.getInstance();  // Noncompliant\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic class MyClass {\\n  private SimpleDateFormat format = new SimpleDateFormat(\\\"HH-mm-ss\\\");\\n  private Calendar calendar = Calendar.getInstance();\\n</pre>\",\"severity\":\"MAJOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"multi-threading\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"15min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"15min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"15min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"15min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"BUG\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S106",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S106\",\"repo\":\"squid\",\"name\":\"Standard outputs should not be used directly to log anything\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>When logging a message there are several important requirements which must be fulfilled:</p>\\n<ul>\\n  <li> The user must be able to easily retrieve the logs </li>\\n  <li> The format of all logged message must be uniform to allow the user to easily read the log </li>\\n  <li> Logged data must actually be recorded </li>\\n  <li> Sensitive data must only be logged securely </li>\\n</ul>\\n<p>If a program directly writes to the standard outputs, there is absolutely no way to comply with those requirements. That's why defining and using a\\ndedicated logger is highly recommended.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nSystem.out.println(\\\"My Message\\\");  // Noncompliant\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nlogger.log(\\\"My Message\\\");\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/RoElAQ\\\">CERT, ERR02-J.</a> - Prevent exceptions while logging data </li>\\n</ul>\",\"mdDesc\":\"<p>When logging a message there are several important requirements which must be fulfilled:</p>\\n<ul>\\n  <li> The user must be able to easily retrieve the logs </li>\\n  <li> The format of all logged message must be uniform to allow the user to easily read the log </li>\\n  <li> Logged data must actually be recorded </li>\\n  <li> Sensitive data must only be logged securely </li>\\n</ul>\\n<p>If a program directly writes to the standard outputs, there is absolutely no way to comply with those requirements. That's why defining and using a\\ndedicated logger is highly recommended.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nSystem.out.println(\\\"My Message\\\");  // Noncompliant\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nlogger.log(\\\"My Message\\\");\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/RoElAQ\\\">CERT, ERR02-J.</a> - Prevent exceptions while logging data </li>\\n</ul>\",\"severity\":\"MAJOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"bad-practice\",\"cert\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"10min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"10min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"10min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"10min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S1125",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S1125\",\"repo\":\"squid\",\"name\":\"Boolean literals should not be redundant\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Redundant Boolean literals should be removed from expressions to improve readability.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nif (booleanMethod() == true) { /* ... */ }\\nif (booleanMethod() == false) { /* ... */ }\\nif (booleanMethod() || false) { /* ... */ }\\ndoSomething(!false);\\ndoSomething(booleanMethod() == true);\\n\\nbooleanVariable = booleanMethod() ? true : false;\\nbooleanVariable = booleanMethod() ? true : exp;\\nbooleanVariable = booleanMethod() ? false : exp;\\nbooleanVariable = booleanMethod() ? exp : true;\\nbooleanVariable = booleanMethod() ? exp : false;\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nif (booleanMethod()) { /* ... */ }\\nif (!booleanMethod()) { /* ... */ }\\nif (booleanMethod()) { /* ... */ }\\ndoSomething(true);\\ndoSomething(booleanMethod());\\n\\nbooleanVariable = booleanMethod();\\nbooleanVariable = booleanMethod() || exp;\\nbooleanVariable = !booleanMethod() &amp;&amp; exp;\\nbooleanVariable = !booleanMethod() || exp;\\nbooleanVariable = booleanMethod() &amp;&amp; exp;\\n</pre>\",\"mdDesc\":\"<p>Redundant Boolean literals should be removed from expressions to improve readability.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nif (booleanMethod() == true) { /* ... */ }\\nif (booleanMethod() == false) { /* ... */ }\\nif (booleanMethod() || false) { /* ... */ }\\ndoSomething(!false);\\ndoSomething(booleanMethod() == true);\\n\\nbooleanVariable = booleanMethod() ? true : false;\\nbooleanVariable = booleanMethod() ? true : exp;\\nbooleanVariable = booleanMethod() ? false : exp;\\nbooleanVariable = booleanMethod() ? exp : true;\\nbooleanVariable = booleanMethod() ? exp : false;\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nif (booleanMethod()) { /* ... */ }\\nif (!booleanMethod()) { /* ... */ }\\nif (booleanMethod()) { /* ... */ }\\ndoSomething(true);\\ndoSomething(booleanMethod());\\n\\nbooleanVariable = booleanMethod();\\nbooleanVariable = booleanMethod() || exp;\\nbooleanVariable = !booleanMethod() &amp;&amp; exp;\\nbooleanVariable = !booleanMethod() || exp;\\nbooleanVariable = booleanMethod() &amp;&amp; exp;\\n</pre>\",\"severity\":\"MINOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"clumsy\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"5min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"5min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"5min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"5min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S1149",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S1149\",\"repo\":\"squid\",\"name\":\"Synchronized classes Vector, Hashtable, Stack and StringBuffer should not be used\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Early classes of the Java API, such as <code>Vector</code>, <code>Hashtable</code> and <code>StringBuffer</code>, were synchronized to make them\\nthread-safe. Unfortunately, synchronization has a big negative impact on performance, even when using these collections from a single thread.</p>\\n<p>It is better to use their new unsynchronized replacements:</p>\\n<ul>\\n  <li> <code>ArrayList</code> or <code>LinkedList</code> instead of <code>Vector</code> </li>\\n  <li> <code>Deque</code> instead of <code>Stack</code> </li>\\n  <li> <code>HashMap</code> instead of <code>Hashtable</code> </li>\\n  <li> <code>StringBuilder</code> instead of <code>StringBuffer</code> </li>\\n</ul>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nVector cats = new Vector();\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nArrayList cats = new ArrayList();\\n</pre>\\n<h2>Exceptions</h2>\\n<p>Use of those synchronized classes is ignored in the signatures of overriding methods.</p>\\n<pre>\\n@Override\\npublic Vector getCats() {...}\\n</pre>\",\"mdDesc\":\"<p>Early classes of the Java API, such as <code>Vector</code>, <code>Hashtable</code> and <code>StringBuffer</code>, were synchronized to make them\\nthread-safe. Unfortunately, synchronization has a big negative impact on performance, even when using these collections from a single thread.</p>\\n<p>It is better to use their new unsynchronized replacements:</p>\\n<ul>\\n  <li> <code>ArrayList</code> or <code>LinkedList</code> instead of <code>Vector</code> </li>\\n  <li> <code>Deque</code> instead of <code>Stack</code> </li>\\n  <li> <code>HashMap</code> instead of <code>Hashtable</code> </li>\\n  <li> <code>StringBuilder</code> instead of <code>StringBuffer</code> </li>\\n</ul>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nVector cats = new Vector();\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nArrayList cats = new ArrayList();\\n</pre>\\n<h2>Exceptions</h2>\\n<p>Use of those synchronized classes is ignored in the signatures of overriding methods.</p>\\n<pre>\\n@Override\\npublic Vector getCats() {...}\\n</pre>\",\"severity\":\"MAJOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"performance\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"20min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"20min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"20min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"20min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=common-java:DuplicatedBlocks",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"common-java:DuplicatedBlocks\",\"repo\":\"common-java\",\"name\":\"Source files should not have any duplicated blocks\",\"createdAt\":\"2019-11-02T15:21:42+0000\",\"htmlDesc\":\"An issue is created on a file as soon as there is at least one block of duplicated code on this file\",\"mdDesc\":\"An issue is created on a file as soon as there is at least one block of duplicated code on this file\",\"severity\":\"MAJOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"pitfall\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"LINEAR_OFFSET\",\"defaultDebtRemFnCoeff\":\"10min\",\"defaultDebtRemFnOffset\":\"10min\",\"effortToFixDescription\":\"number of duplicate blocks\",\"debtOverloaded\":false,\"debtRemFnType\":\"LINEAR_OFFSET\",\"debtRemFnCoeff\":\"10min\",\"debtRemFnOffset\":\"10min\",\"defaultRemFnType\":\"LINEAR_OFFSET\",\"defaultRemFnGapMultiplier\":\"10min\",\"defaultRemFnBaseEffort\":\"10min\",\"remFnType\":\"LINEAR_OFFSET\",\"remFnGapMultiplier\":\"10min\",\"remFnBaseEffort\":\"10min\",\"remFnOverloaded\":false,\"gapDescription\":\"number of duplicate blocks\",\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S1192",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S1192\",\"repo\":\"squid\",\"name\":\"String literals should not be duplicated\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Duplicated string literals make the process of refactoring error-prone, since you must be sure to update all occurrences.</p>\\n<p>On the other hand, constants can be referenced from many places, but only need to be updated in a single place.</p>\\n<h2>Noncompliant Code Example</h2>\\n<p>With the default threshold of 3:</p>\\n<pre>\\npublic void run() {\\n  prepare(\\\"action1\\\");                              // Noncompliant - \\\"action1\\\" is duplicated 3 times\\n  execute(\\\"action1\\\");\\n  release(\\\"action1\\\");\\n}\\n\\n@SuppressWarning(\\\"all\\\")                            // Compliant - annotations are excluded\\nprivate void method1() { /* ... */ }\\n@SuppressWarning(\\\"all\\\")\\nprivate void method2() { /* ... */ }\\n\\npublic String method3(String a) {\\n  System.out.println(\\\"'\\\" + a + \\\"'\\\");               // Compliant - literal \\\"'\\\" has less than 5 characters and is excluded\\n  return \\\"\\\";                                       // Compliant - literal \\\"\\\" has less than 5 characters and is excluded\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nprivate static final String ACTION_1 = \\\"action1\\\";  // Compliant\\n\\npublic void run() {\\n  prepare(ACTION_1);                               // Compliant\\n  execute(ACTION_1);\\n  release(ACTION_1);\\n}\\n</pre>\\n<h2>Exceptions</h2>\\n<p>To prevent generating some false-positives, literals having less than 5 characters are excluded.</p>\",\"mdDesc\":\"<p>Duplicated string literals make the process of refactoring error-prone, since you must be sure to update all occurrences.</p>\\n<p>On the other hand, constants can be referenced from many places, but only need to be updated in a single place.</p>\\n<h2>Noncompliant Code Example</h2>\\n<p>With the default threshold of 3:</p>\\n<pre>\\npublic void run() {\\n  prepare(\\\"action1\\\");                              // Noncompliant - \\\"action1\\\" is duplicated 3 times\\n  execute(\\\"action1\\\");\\n  release(\\\"action1\\\");\\n}\\n\\n@SuppressWarning(\\\"all\\\")                            // Compliant - annotations are excluded\\nprivate void method1() { /* ... */ }\\n@SuppressWarning(\\\"all\\\")\\nprivate void method2() { /* ... */ }\\n\\npublic String method3(String a) {\\n  System.out.println(\\\"'\\\" + a + \\\"'\\\");               // Compliant - literal \\\"'\\\" has less than 5 characters and is excluded\\n  return \\\"\\\";                                       // Compliant - literal \\\"\\\" has less than 5 characters and is excluded\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nprivate static final String ACTION_1 = \\\"action1\\\";  // Compliant\\n\\npublic void run() {\\n  prepare(ACTION_1);                               // Compliant\\n  execute(ACTION_1);\\n  release(ACTION_1);\\n}\\n</pre>\\n<h2>Exceptions</h2>\\n<p>To prevent generating some false-positives, literals having less than 5 characters are excluded.</p>\",\"severity\":\"CRITICAL\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"design\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[{\"key\":\"threshold\",\"htmlDesc\":\"Number of times a literal must be duplicated to trigger an issue\",\"defaultValue\":\"3\",\"type\":\"INTEGER\"}],\"defaultDebtRemFnType\":\"LINEAR_OFFSET\",\"defaultDebtRemFnCoeff\":\"2min\",\"defaultDebtRemFnOffset\":\"2min\",\"effortToFixDescription\":\"per duplicate instance\",\"debtOverloaded\":false,\"debtRemFnType\":\"LINEAR_OFFSET\",\"debtRemFnCoeff\":\"2min\",\"debtRemFnOffset\":\"2min\",\"defaultRemFnType\":\"LINEAR_OFFSET\",\"defaultRemFnGapMultiplier\":\"2min\",\"defaultRemFnBaseEffort\":\"2min\",\"remFnType\":\"LINEAR_OFFSET\",\"remFnGapMultiplier\":\"2min\",\"remFnBaseEffort\":\"2min\",\"remFnOverloaded\":false,\"gapDescription\":\"per duplicate instance\",\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S3776",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S3776\",\"repo\":\"squid\",\"name\":\"Cognitive Complexity of methods should not be too high\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be\\ndifficult to maintain.</p>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://redirect.sonarsource.com/doc/cognitive-complexity.html\\\">Cognitive Complexity</a> </li>\\n</ul>\",\"mdDesc\":\"<p>Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be\\ndifficult to maintain.</p>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://redirect.sonarsource.com/doc/cognitive-complexity.html\\\">Cognitive Complexity</a> </li>\\n</ul>\",\"severity\":\"CRITICAL\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"brain-overload\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[{\"key\":\"Threshold\",\"htmlDesc\":\"The maximum authorized complexity.\",\"defaultValue\":\"15\",\"type\":\"INTEGER\"}],\"defaultDebtRemFnType\":\"LINEAR_OFFSET\",\"defaultDebtRemFnCoeff\":\"1min\",\"defaultDebtRemFnOffset\":\"5min\",\"effortToFixDescription\":\"per complexity point over the threshold\",\"debtOverloaded\":false,\"debtRemFnType\":\"LINEAR_OFFSET\",\"debtRemFnCoeff\":\"1min\",\"debtRemFnOffset\":\"5min\",\"defaultRemFnType\":\"LINEAR_OFFSET\",\"defaultRemFnGapMultiplier\":\"1min\",\"defaultRemFnBaseEffort\":\"5min\",\"remFnType\":\"LINEAR_OFFSET\",\"remFnGapMultiplier\":\"1min\",\"remFnBaseEffort\":\"5min\",\"remFnOverloaded\":false,\"gapDescription\":\"per complexity point over the threshold\",\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S1135",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S1135\",\"repo\":\"squid\",\"name\":\"Track uses of \\\"TODO\\\" tags\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p><code>TODO</code> tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.</p>\\n<p>Sometimes the developer will not have the time or will simply forget to get back to that tag.</p>\\n<p>This rule is meant to track those tags and to ensure that they do not go unnoticed.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nvoid doSomething() {\\n  // TODO\\n}\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/546.html\\\">MITRE, CWE-546</a> - Suspicious Comment </li>\\n</ul>\",\"mdDesc\":\"<p><code>TODO</code> tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.</p>\\n<p>Sometimes the developer will not have the time or will simply forget to get back to that tag.</p>\\n<p>This rule is meant to track those tags and to ensure that they do not go unnoticed.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nvoid doSomething() {\\n  // TODO\\n}\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/546.html\\\">MITRE, CWE-546</a> - Suspicious Comment </li>\\n</ul>\",\"severity\":\"INFO\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"cwe\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"debtOverloaded\":false,\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S00119",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S00119\",\"repo\":\"squid\",\"name\":\"Type parameter names should comply with a naming convention\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Shared naming conventions make it possible for a team to collaborate efficiently. Following the established convention of single-letter type\\nparameter names helps users and maintainers of your code quickly see the difference between a type parameter and a poorly named class.</p>\\n<p>This rule check that all type parameter names match a provided regular expression. The following code snippets use the default regular\\nexpression.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic class MyClass&lt;TYPE&gt; { // Noncompliant\\n  &lt;TYPE&gt; void method(TYPE t) { // Noncompliant\\n  }\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic class MyClass&lt;T&gt; {\\n  &lt;T&gt; void method(T t) {\\n  }\\n}\\n</pre>\",\"mdDesc\":\"<p>Shared naming conventions make it possible for a team to collaborate efficiently. Following the established convention of single-letter type\\nparameter names helps users and maintainers of your code quickly see the difference between a type parameter and a poorly named class.</p>\\n<p>This rule check that all type parameter names match a provided regular expression. The following code snippets use the default regular\\nexpression.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic class MyClass&lt;TYPE&gt; { // Noncompliant\\n  &lt;TYPE&gt; void method(TYPE t) { // Noncompliant\\n  }\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic class MyClass&lt;T&gt; {\\n  &lt;T&gt; void method(T t) {\\n  }\\n}\\n</pre>\",\"severity\":\"MINOR\",\"status\":\"READY\",\"internalKey\":\"S119\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"convention\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[{\"key\":\"format\",\"htmlDesc\":\"Regular expression used to check the type parameter names against.\",\"defaultValue\":\"^[A-Z][0-9]?$\",\"type\":\"STRING\"}],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"10min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"10min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"10min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"10min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:ClassVariableVisibilityCheck",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:ClassVariableVisibilityCheck\",\"repo\":\"squid\",\"name\":\"Class variable fields should not have public accessibility\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Public class variable fields do not respect the encapsulation principle and has three main disadvantages:</p>\\n<ul>\\n  <li> Additional behavior such as validation cannot be added. </li>\\n  <li> The internal representation is exposed, and cannot be changed afterwards. </li>\\n  <li> Member values are subject to change from anywhere in the code and may not meet the programmer's assumptions. </li>\\n</ul>\\n<p>By using private attributes and accessor methods (set and get), unauthorized modifications are prevented.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic class MyClass {\\n\\n  public static final int SOME_CONSTANT = 0;     // Compliant - constants are not checked\\n\\n  public String firstName;                       // Noncompliant\\n\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic class MyClass {\\n\\n  public static final int SOME_CONSTANT = 0;     // Compliant - constants are not checked\\n\\n  private String firstName;                      // Compliant\\n\\n  public String getFirstName() {\\n    return firstName;\\n  }\\n\\n  public void setFirstName(String firstName) {\\n    this.firstName = firstName;\\n  }\\n\\n}\\n</pre>\\n<h2>Exceptions</h2>\\n<p>Because they are not modifiable, this rule ignores <code>public final</code> fields.</p>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/493.html\\\">MITRE, CWE-493</a> - Critical Public Variable Without Final Modifier </li>\\n</ul>\",\"mdDesc\":\"<p>Public class variable fields do not respect the encapsulation principle and has three main disadvantages:</p>\\n<ul>\\n  <li> Additional behavior such as validation cannot be added. </li>\\n  <li> The internal representation is exposed, and cannot be changed afterwards. </li>\\n  <li> Member values are subject to change from anywhere in the code and may not meet the programmer's assumptions. </li>\\n</ul>\\n<p>By using private attributes and accessor methods (set and get), unauthorized modifications are prevented.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic class MyClass {\\n\\n  public static final int SOME_CONSTANT = 0;     // Compliant - constants are not checked\\n\\n  public String firstName;                       // Noncompliant\\n\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic class MyClass {\\n\\n  public static final int SOME_CONSTANT = 0;     // Compliant - constants are not checked\\n\\n  private String firstName;                      // Compliant\\n\\n  public String getFirstName() {\\n    return firstName;\\n  }\\n\\n  public void setFirstName(String firstName) {\\n    this.firstName = firstName;\\n  }\\n\\n}\\n</pre>\\n<h2>Exceptions</h2>\\n<p>Because they are not modifiable, this rule ignores <code>public final</code> fields.</p>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/493.html\\\">MITRE, CWE-493</a> - Critical Public Variable Without Final Modifier </li>\\n</ul>\",\"severity\":\"MINOR\",\"status\":\"READY\",\"internalKey\":\"S1104\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"cwe\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"10min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"10min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"10min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"10min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"VULNERABILITY\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S3655",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S3655\",\"repo\":\"squid\",\"name\":\"Optional value should only be accessed after calling isPresent()\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p><code>Optional</code> value can hold either a value or not. The value held in the <code>Optional</code> can be accessed using the\\n<code>get()</code> method, but it will throw a </p>\\n<p><code>NoSuchElementException</code> if there is no value present. To avoid the exception, calling the <code>isPresent()</code> method should always\\nbe done before any call to <code>get()</code>.</p>\\n<p>Alternatively, note that other methods such as <code>orElse(...)</code>, <code>orElseGet(...)</code> or <code>orElseThrow(...)</code> can be used\\nto specify what to do with an empty <code>Optional</code>.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nOptional&lt;String&gt; value = this.getOptionalValue();\\n\\n// ...\\n\\nString stringValue = value.get(); // Noncompliant\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nOptional&lt;String&gt; value = this.getOptionalValue();\\n\\n// ...\\n\\nif (value.isPresent()) {\\n  String stringValue = value.get();\\n}\\n</pre>\\n<p>or</p>\\n<pre>\\nOptional&lt;String&gt; value = this.getOptionalValue();\\n\\n// ...\\n\\nString stringValue = value.orElse(\\\"default\\\");\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"https://cwe.mitre.org/data/definitions/476.html\\\">MITRE, CWE-476</a> - NULL Pointer Dereference </li>\\n</ul>\",\"mdDesc\":\"<p><code>Optional</code> value can hold either a value or not. The value held in the <code>Optional</code> can be accessed using the\\n<code>get()</code> method, but it will throw a </p>\\n<p><code>NoSuchElementException</code> if there is no value present. To avoid the exception, calling the <code>isPresent()</code> method should always\\nbe done before any call to <code>get()</code>.</p>\\n<p>Alternatively, note that other methods such as <code>orElse(...)</code>, <code>orElseGet(...)</code> or <code>orElseThrow(...)</code> can be used\\nto specify what to do with an empty <code>Optional</code>.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nOptional&lt;String&gt; value = this.getOptionalValue();\\n\\n// ...\\n\\nString stringValue = value.get(); // Noncompliant\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nOptional&lt;String&gt; value = this.getOptionalValue();\\n\\n// ...\\n\\nif (value.isPresent()) {\\n  String stringValue = value.get();\\n}\\n</pre>\\n<p>or</p>\\n<pre>\\nOptional&lt;String&gt; value = this.getOptionalValue();\\n\\n// ...\\n\\nString stringValue = value.orElse(\\\"default\\\");\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"https://cwe.mitre.org/data/definitions/476.html\\\">MITRE, CWE-476</a> - NULL Pointer Dereference </li>\\n</ul>\",\"severity\":\"MAJOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"cwe\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"10min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"10min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"10min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"10min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"BUG\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S4973",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S4973\",\"repo\":\"squid\",\"name\":\"Strings and Boxed types should be compared using \\\"equals()\\\"\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>It's almost always a mistake to compare two instances of <code>java.lang.String</code> or boxed types like <code>java.lang.Integer</code> using\\nreference equality <code>==</code> or <code>!=</code>, because it is not comparing actual value but locations in memory.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nString firstName = getFirstName(); // String overrides equals\\nString lastName = getLastName();\\n\\nif (firstName == lastName) { ... }; // Non-compliant; false even if the strings have the same value\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nString firstName = getFirstName();\\nString lastName = getLastName();\\n\\nif (firstName != null &amp;&amp; firstName.equals(lastName)) { ... };\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/595.html\\\">MITRE, CWE-595</a> - Comparison of Object References Instead of Object Contents </li>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/597.html\\\">MITRE, CWE-597</a> - Use of Wrong Operator in String Comparison </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/wwD1AQ\\\">CERT, EXP03-J.</a> - Do not use the equality operators when comparing values of\\n  boxed primitives </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/8AEqAQ\\\">CERT, EXP50-J.</a> - Do not confuse abstract object equality with reference\\n  equality </li>\\n</ul>\",\"mdDesc\":\"<p>It's almost always a mistake to compare two instances of <code>java.lang.String</code> or boxed types like <code>java.lang.Integer</code> using\\nreference equality <code>==</code> or <code>!=</code>, because it is not comparing actual value but locations in memory.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nString firstName = getFirstName(); // String overrides equals\\nString lastName = getLastName();\\n\\nif (firstName == lastName) { ... }; // Non-compliant; false even if the strings have the same value\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nString firstName = getFirstName();\\nString lastName = getLastName();\\n\\nif (firstName != null &amp;&amp; firstName.equals(lastName)) { ... };\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/595.html\\\">MITRE, CWE-595</a> - Comparison of Object References Instead of Object Contents </li>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/597.html\\\">MITRE, CWE-597</a> - Use of Wrong Operator in String Comparison </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/wwD1AQ\\\">CERT, EXP03-J.</a> - Do not use the equality operators when comparing values of\\n  boxed primitives </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/8AEqAQ\\\">CERT, EXP50-J.</a> - Do not confuse abstract object equality with reference\\n  equality </li>\\n</ul>\",\"severity\":\"MAJOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"cert\",\"cwe\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"5min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"5min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"5min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"5min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"BUG\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:UselessImportCheck",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:UselessImportCheck\",\"repo\":\"squid\",\"name\":\"Unnecessary imports should be removed\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>The imports part of a file should be handled by the Integrated Development Environment (IDE), not manually by the developer. </p>\\n<p>Unused and useless imports should not occur if that is the case. </p>\\n<p>Leaving them in reduces the code's readability, since their presence can be confusing.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npackage my.company;\\n\\nimport java.lang.String;        // Noncompliant; java.lang classes are always implicitly imported\\nimport my.company.SomeClass;    // Noncompliant; same-package files are always implicitly imported\\nimport java.io.File;            // Noncompliant; File is not used\\n\\nimport my.company2.SomeType;\\nimport my.company2.SomeType;    // Noncompliant; 'SomeType' is already imported\\n\\nclass ExampleClass {\\n\\n  public String someString;\\n  public SomeType something;\\n\\n}\\n</pre>\\n<h2>Exceptions</h2>\\n<p>Imports for types mentioned in comments, such as Javadocs, are ignored.</p>\",\"mdDesc\":\"<p>The imports part of a file should be handled by the Integrated Development Environment (IDE), not manually by the developer. </p>\\n<p>Unused and useless imports should not occur if that is the case. </p>\\n<p>Leaving them in reduces the code's readability, since their presence can be confusing.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npackage my.company;\\n\\nimport java.lang.String;        // Noncompliant; java.lang classes are always implicitly imported\\nimport my.company.SomeClass;    // Noncompliant; same-package files are always implicitly imported\\nimport java.io.File;            // Noncompliant; File is not used\\n\\nimport my.company2.SomeType;\\nimport my.company2.SomeType;    // Noncompliant; 'SomeType' is already imported\\n\\nclass ExampleClass {\\n\\n  public String someString;\\n  public SomeType something;\\n\\n}\\n</pre>\\n<h2>Exceptions</h2>\\n<p>Imports for types mentioned in comments, such as Javadocs, are ignored.</p>\",\"severity\":\"MINOR\",\"status\":\"READY\",\"internalKey\":\"S1128\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"unused\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"2min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"2min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"2min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"2min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S1199",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S1199\",\"repo\":\"squid\",\"name\":\"Nested code blocks should not be used\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Nested code blocks can be used to create a new scope and restrict the visibility of the variables defined inside it. Using this feature in a method\\ntypically indicates that the method has too many responsibilities, and should be refactored into smaller methods.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic void evaluate(int operator) {\\n  switch (operator) {\\n    /* ... */\\n    case ADD: {                                // Noncompliant - nested code block '{' ... '}'\\n        int a = stack.pop();\\n        int b = stack.pop();\\n        int result = a + b;\\n        stack.push(result);\\n        break;\\n      }\\n    /* ... */\\n  }\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic void evaluate(int operator) {\\n  switch (operator) {\\n    /* ... */\\n    case ADD:                                  // Compliant\\n      evaluateAdd();\\n      break;\\n    /* ... */\\n  }\\n}\\n\\nprivate void evaluateAdd() {\\n  int a = stack.pop();\\n  int b = stack.pop();\\n  int result = a + b;\\n  stack.push(result);\\n}\\n</pre>\",\"mdDesc\":\"<p>Nested code blocks can be used to create a new scope and restrict the visibility of the variables defined inside it. Using this feature in a method\\ntypically indicates that the method has too many responsibilities, and should be refactored into smaller methods.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic void evaluate(int operator) {\\n  switch (operator) {\\n    /* ... */\\n    case ADD: {                                // Noncompliant - nested code block '{' ... '}'\\n        int a = stack.pop();\\n        int b = stack.pop();\\n        int result = a + b;\\n        stack.push(result);\\n        break;\\n      }\\n    /* ... */\\n  }\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic void evaluate(int operator) {\\n  switch (operator) {\\n    /* ... */\\n    case ADD:                                  // Compliant\\n      evaluateAdd();\\n      break;\\n    /* ... */\\n  }\\n}\\n\\nprivate void evaluateAdd() {\\n  int a = stack.pop();\\n  int b = stack.pop();\\n  int result = a + b;\\n  stack.push(result);\\n}\\n</pre>\",\"severity\":\"MINOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"bad-practice\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"10min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"10min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"10min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"10min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S1126",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S1126\",\"repo\":\"squid\",\"name\":\"Return of boolean expressions should not be wrapped into an \\\"if-then-else\\\" statement\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Return of boolean literal statements wrapped into <code>if-then-else</code> ones should be simplified.</p>\\n<p>Similarly, method invocations wrapped into <code>if-then-else</code> differing only from boolean literals should be simplified into a single\\ninvocation.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nboolean foo(Object param) {\\n  if (expression) { // Noncompliant\\n    bar(param, true, \\\"qix\\\");\\n  } else {\\n    bar(param, false, \\\"qix\\\");\\n  }\\n\\n  if (expression) {  // Noncompliant\\n    return true;\\n  } else {\\n    return false;\\n  }\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nboolean foo(Object param) {\\n  bar(param, expression, \\\"qix\\\");\\n\\n  return expression;\\n}\\n</pre>\",\"mdDesc\":\"<p>Return of boolean literal statements wrapped into <code>if-then-else</code> ones should be simplified.</p>\\n<p>Similarly, method invocations wrapped into <code>if-then-else</code> differing only from boolean literals should be simplified into a single\\ninvocation.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nboolean foo(Object param) {\\n  if (expression) { // Noncompliant\\n    bar(param, true, \\\"qix\\\");\\n  } else {\\n    bar(param, false, \\\"qix\\\");\\n  }\\n\\n  if (expression) {  // Noncompliant\\n    return true;\\n  } else {\\n    return false;\\n  }\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nboolean foo(Object param) {\\n  bar(param, expression, \\\"qix\\\");\\n\\n  return expression;\\n}\\n</pre>\",\"severity\":\"MINOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"clumsy\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"2min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"2min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"2min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"2min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S1319",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S1319\",\"repo\":\"squid\",\"name\":\"Declarations should use Java collection interfaces such as \\\"List\\\" rather than specific implementation classes such as \\\"LinkedList\\\"\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>The purpose of the Java Collections API is to provide a well defined hierarchy of interfaces in order to hide implementation details.</p>\\n<p>Implementing classes must be used to instantiate new collections, but the result of an instantiation should ideally be stored in a variable whose\\ntype is a Java Collection interface.</p>\\n<p>This rule raises an issue when an implementation class:</p>\\n<ul>\\n  <li> is returned from a <code>public</code> method. </li>\\n  <li> is accepted as an argument to a <code>public</code> method. </li>\\n  <li> is exposed as a <code>public</code> member. </li>\\n</ul>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic class Employees {\\n  private HashSet&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;();  // Noncompliant - \\\"employees\\\" should have type \\\"Set\\\" rather than \\\"HashSet\\\"\\n\\n  public HashSet&lt;Employee&gt; getEmployees() {                       // Noncompliant\\n    return employees;\\n  }\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic class Employees {\\n  private Set&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;();      // Compliant\\n\\n  public Set&lt;Employee&gt; getEmployees() {                           // Compliant\\n    return employees;\\n  }\\n}\\n</pre>\",\"mdDesc\":\"<p>The purpose of the Java Collections API is to provide a well defined hierarchy of interfaces in order to hide implementation details.</p>\\n<p>Implementing classes must be used to instantiate new collections, but the result of an instantiation should ideally be stored in a variable whose\\ntype is a Java Collection interface.</p>\\n<p>This rule raises an issue when an implementation class:</p>\\n<ul>\\n  <li> is returned from a <code>public</code> method. </li>\\n  <li> is accepted as an argument to a <code>public</code> method. </li>\\n  <li> is exposed as a <code>public</code> member. </li>\\n</ul>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\npublic class Employees {\\n  private HashSet&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;();  // Noncompliant - \\\"employees\\\" should have type \\\"Set\\\" rather than \\\"HashSet\\\"\\n\\n  public HashSet&lt;Employee&gt; getEmployees() {                       // Noncompliant\\n    return employees;\\n  }\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\npublic class Employees {\\n  private Set&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;();      // Compliant\\n\\n  public Set&lt;Employee&gt; getEmployees() {                           // Compliant\\n    return employees;\\n  }\\n}\\n</pre>\",\"severity\":\"MINOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"bad-practice\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"10min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"10min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"10min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"10min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S2184",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S2184\",\"repo\":\"squid\",\"name\":\"Math operands should be cast before assignment\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>When arithmetic is performed on integers, the result will always be an integer. You can assign that result to a <code>long</code>,\\n<code>double</code>, or <code>float</code> with automatic type conversion, but having started as an <code>int</code> or <code>long</code>, the result\\nwill likely not be what you expect. </p>\\n<p>For instance, if the result of <code>int</code> division is assigned to a floating-point variable, precision will have been lost before the\\nassignment. Likewise, if the result of multiplication is assigned to a <code>long</code>, it may have already overflowed before the assignment.</p>\\n<p>In either case, the result will not be what was expected. Instead, at least one operand should be cast or promoted to the final type before the\\noperation takes place.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nfloat twoThirds = 2/3; // Noncompliant; int division. Yields 0.0\\nlong millisInYear = 1_000*3_600*24*365; // Noncompliant; int multiplication. Yields 1471228928\\nlong bigNum = Integer.MAX_VALUE + 2; // Noncompliant. Yields -2147483647\\nlong bigNegNum =  Integer.MIN_VALUE-1; //Noncompliant, gives a positive result instead of a negative one.\\nDate myDate = new Date(seconds * 1_000); //Noncompliant, won't produce the expected result if seconds &gt; 2_147_483\\n...\\npublic long compute(int factor){\\n  return factor * 10_000;  //Noncompliant, won't produce the expected result if factor &gt; 214_748\\n}\\n\\npublic float compute2(long factor){\\n  return factor / 123;  //Noncompliant, will be rounded to closest long integer\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nfloat twoThirds = 2f/3; // 2 promoted to float. Yields 0.6666667\\nlong millisInYear = 1_000L*3_600*24*365; // 1000 promoted to long. Yields 31_536_000_000\\nlong bigNum = Integer.MAX_VALUE + 2L; // 2 promoted to long. Yields 2_147_483_649\\nlong bigNegNum =  Integer.MIN_VALUE-1L; // Yields -2_147_483_649\\nDate myDate = new Date(seconds * 1_000L);\\n...\\npublic long compute(int factor){\\n  return factor * 10_000L;\\n}\\n\\npublic float compute2(long factor){\\n  return factor / 123f;\\n}\\n</pre>\\n<p>or</p>\\n<pre>\\nfloat twoThirds = (float)2/3; // 2 cast to float\\nlong millisInYear = (long)1_000*3_600*24*365; // 1_000 cast to long\\nlong bigNum = (long)Integer.MAX_VALUE + 2;\\nlong bigNegNum =  (long)Integer.MIN_VALUE-1;\\nDate myDate = new Date((long)seconds * 1_000);\\n...\\npublic long compute(long factor){\\n  return factor * 10_000;\\n}\\n\\npublic float compute2(float factor){\\n  return factor / 123;\\n}\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> MISRA C++:2008, 5-0-8 - An explicit integral or floating-point conversion shall not increase the size of the underlying type of a cvalue\\n  expression. </li>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/190\\\">MITRE, CWE-190</a> - Integer Overflow or Wraparound </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/woIyAQ\\\">CERT, NUM50-J.</a> - Convert integers to floating point for floating-point\\n  operations </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/AxE\\\">CERT, INT18-C.</a> - Evaluate integer expressions in a larger size before\\n  comparing or assigning to that size </li>\\n  <li> <a href=\\\"https://www.sans.org/top25-software-errors/#cat2\\\">SANS Top 25</a> - Risky Resource Management </li>\\n</ul>\",\"mdDesc\":\"<p>When arithmetic is performed on integers, the result will always be an integer. You can assign that result to a <code>long</code>,\\n<code>double</code>, or <code>float</code> with automatic type conversion, but having started as an <code>int</code> or <code>long</code>, the result\\nwill likely not be what you expect. </p>\\n<p>For instance, if the result of <code>int</code> division is assigned to a floating-point variable, precision will have been lost before the\\nassignment. Likewise, if the result of multiplication is assigned to a <code>long</code>, it may have already overflowed before the assignment.</p>\\n<p>In either case, the result will not be what was expected. Instead, at least one operand should be cast or promoted to the final type before the\\noperation takes place.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nfloat twoThirds = 2/3; // Noncompliant; int division. Yields 0.0\\nlong millisInYear = 1_000*3_600*24*365; // Noncompliant; int multiplication. Yields 1471228928\\nlong bigNum = Integer.MAX_VALUE + 2; // Noncompliant. Yields -2147483647\\nlong bigNegNum =  Integer.MIN_VALUE-1; //Noncompliant, gives a positive result instead of a negative one.\\nDate myDate = new Date(seconds * 1_000); //Noncompliant, won't produce the expected result if seconds &gt; 2_147_483\\n...\\npublic long compute(int factor){\\n  return factor * 10_000;  //Noncompliant, won't produce the expected result if factor &gt; 214_748\\n}\\n\\npublic float compute2(long factor){\\n  return factor / 123;  //Noncompliant, will be rounded to closest long integer\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nfloat twoThirds = 2f/3; // 2 promoted to float. Yields 0.6666667\\nlong millisInYear = 1_000L*3_600*24*365; // 1000 promoted to long. Yields 31_536_000_000\\nlong bigNum = Integer.MAX_VALUE + 2L; // 2 promoted to long. Yields 2_147_483_649\\nlong bigNegNum =  Integer.MIN_VALUE-1L; // Yields -2_147_483_649\\nDate myDate = new Date(seconds * 1_000L);\\n...\\npublic long compute(int factor){\\n  return factor * 10_000L;\\n}\\n\\npublic float compute2(long factor){\\n  return factor / 123f;\\n}\\n</pre>\\n<p>or</p>\\n<pre>\\nfloat twoThirds = (float)2/3; // 2 cast to float\\nlong millisInYear = (long)1_000*3_600*24*365; // 1_000 cast to long\\nlong bigNum = (long)Integer.MAX_VALUE + 2;\\nlong bigNegNum =  (long)Integer.MIN_VALUE-1;\\nDate myDate = new Date((long)seconds * 1_000);\\n...\\npublic long compute(long factor){\\n  return factor * 10_000;\\n}\\n\\npublic float compute2(float factor){\\n  return factor / 123;\\n}\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> MISRA C++:2008, 5-0-8 - An explicit integral or floating-point conversion shall not increase the size of the underlying type of a cvalue\\n  expression. </li>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/190\\\">MITRE, CWE-190</a> - Integer Overflow or Wraparound </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/woIyAQ\\\">CERT, NUM50-J.</a> - Convert integers to floating point for floating-point\\n  operations </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/AxE\\\">CERT, INT18-C.</a> - Evaluate integer expressions in a larger size before\\n  comparing or assigning to that size </li>\\n  <li> <a href=\\\"https://www.sans.org/top25-software-errors/#cat2\\\">SANS Top 25</a> - Risky Resource Management </li>\\n</ul>\",\"severity\":\"MINOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"cert\",\"cwe\",\"misra\",\"overflow\",\"sans-top25-risky\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"5min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"5min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"5min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"5min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"BUG\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S2699",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S2699\",\"repo\":\"squid\",\"name\":\"Tests should include assertions\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>A test case without assertions ensures only that no exceptions are thrown. Beyond basic runnability, it ensures nothing about the behavior of the\\ncode under test.</p>\\n<p>This rule raises an exception when no assertions from any of the following known frameworks are found in a test:</p>\\n<ul>\\n  <li> JUnit </li>\\n  <li> Fest 1.x </li>\\n  <li> Fest 2.x </li>\\n  <li> Rest-assured 2.0 </li>\\n  <li> AssertJ </li>\\n  <li> Hamcrest </li>\\n  <li> Spring's <code>org.springframework.test.web.servlet.ResultActions.andExpect()</code> </li>\\n  <li> Eclipse Vert.x </li>\\n  <li> Truth Framework </li>\\n  <li> Mockito </li>\\n  <li> EasyMock </li>\\n  <li> JMock </li>\\n  <li> WireMock </li>\\n  <li> RxJava 1.x </li>\\n  <li> RxJava 2.x </li>\\n  <li> Selenide </li>\\n  <li> JMockit </li>\\n</ul>\\n<p>Furthermore, as new or custom assertion frameworks may be used, the rule can be parametrized to define specific methods that will also be\\nconsidered as assertions. No issue will be raised when such methods are found in test cases. The parameter value should have the following format\\n<code>&lt;FullyQualifiedClassName&gt;#&lt;MethodName&gt;</code>, where <code>MethodName</code> can end with the wildcard character. For constructors,\\nthe pattern should be <code>&lt;FullyQualifiedClassName&gt;#&lt;init&gt;</code>.</p>\\n<p>Example:&nbsp;<code>com.company.CompareToTester#compare*,com.company.CustomAssert#customAssertMethod,com.company.CheckVerifier#&lt;init&gt;</code>.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\n@Test\\npublic void testDoSomething() {  // Noncompliant\\n  MyClass myClass = new MyClass();\\n  myClass.doSomething();\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<p>Example when <code>com.company.CompareToTester#compare*</code> is used as parameter to the rule.</p>\\n<pre>\\nimport com.company.CompareToTester;\\n\\n@Test\\npublic void testDoSomething() {\\n  MyClass myClass = new MyClass();\\n  assertNull(myClass.doSomething());  // JUnit assertion\\n  assertThat(myClass.doSomething()).isNull();  // Fest assertion\\n}\\n\\n@Test\\npublic void testDoSomethingElse() {\\n  MyClass myClass = new MyClass();\\n  new CompareToTester().compareWith(myClass);  // Compliant - custom assertion method defined as rule parameter\\n  CompareToTester.compareStatic(myClass);  // Compliant\\n}\\n</pre>\",\"mdDesc\":\"<p>A test case without assertions ensures only that no exceptions are thrown. Beyond basic runnability, it ensures nothing about the behavior of the\\ncode under test.</p>\\n<p>This rule raises an exception when no assertions from any of the following known frameworks are found in a test:</p>\\n<ul>\\n  <li> JUnit </li>\\n  <li> Fest 1.x </li>\\n  <li> Fest 2.x </li>\\n  <li> Rest-assured 2.0 </li>\\n  <li> AssertJ </li>\\n  <li> Hamcrest </li>\\n  <li> Spring's <code>org.springframework.test.web.servlet.ResultActions.andExpect()</code> </li>\\n  <li> Eclipse Vert.x </li>\\n  <li> Truth Framework </li>\\n  <li> Mockito </li>\\n  <li> EasyMock </li>\\n  <li> JMock </li>\\n  <li> WireMock </li>\\n  <li> RxJava 1.x </li>\\n  <li> RxJava 2.x </li>\\n  <li> Selenide </li>\\n  <li> JMockit </li>\\n</ul>\\n<p>Furthermore, as new or custom assertion frameworks may be used, the rule can be parametrized to define specific methods that will also be\\nconsidered as assertions. No issue will be raised when such methods are found in test cases. The parameter value should have the following format\\n<code>&lt;FullyQualifiedClassName&gt;#&lt;MethodName&gt;</code>, where <code>MethodName</code> can end with the wildcard character. For constructors,\\nthe pattern should be <code>&lt;FullyQualifiedClassName&gt;#&lt;init&gt;</code>.</p>\\n<p>Example:&nbsp;<code>com.company.CompareToTester#compare*,com.company.CustomAssert#customAssertMethod,com.company.CheckVerifier#&lt;init&gt;</code>.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\n@Test\\npublic void testDoSomething() {  // Noncompliant\\n  MyClass myClass = new MyClass();\\n  myClass.doSomething();\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<p>Example when <code>com.company.CompareToTester#compare*</code> is used as parameter to the rule.</p>\\n<pre>\\nimport com.company.CompareToTester;\\n\\n@Test\\npublic void testDoSomething() {\\n  MyClass myClass = new MyClass();\\n  assertNull(myClass.doSomething());  // JUnit assertion\\n  assertThat(myClass.doSomething()).isNull();  // Fest assertion\\n}\\n\\n@Test\\npublic void testDoSomethingElse() {\\n  MyClass myClass = new MyClass();\\n  new CompareToTester().compareWith(myClass);  // Compliant - custom assertion method defined as rule parameter\\n  CompareToTester.compareStatic(myClass);  // Compliant\\n}\\n</pre>\",\"severity\":\"BLOCKER\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"tests\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[{\"key\":\"customAssertionMethods\",\"htmlDesc\":\"Comma-separated list of fully qualified method symbols that should be considered as assertion methods. The wildcard character can be used at the end of the method name.\",\"type\":\"STRING\"}],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"10min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"10min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"10min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"10min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S2259",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S2259\",\"repo\":\"squid\",\"name\":\"Null pointers should not be dereferenced\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>A reference to <code>null</code> should never be dereferenced/accessed. Doing so will cause a <code>NullPointerException</code> to be thrown. At\\nbest, such an exception will cause abrupt program termination. At worst, it could expose debugging information that would be useful to an attacker, or\\nit could allow an attacker to bypass security measures.</p>\\n<p>Note that when they are present, this rule takes advantage of <code>@CheckForNull</code> and <code>@Nonnull</code> annotations defined in <a\\nhref=\\\"https://jcp.org/en/jsr/detail?id=305\\\">JSR-305</a> to understand which values are and are not nullable except when <code>@Nonnull</code> is used\\non the parameter to <code>equals</code>, which by contract should always work with null.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\n@CheckForNull\\nString getName(){...}\\n\\npublic boolean isNameEmpty() {\\n  return getName().length() == 0; // Noncompliant; the result of getName() could be null, but isn't null-checked\\n}\\n</pre>\\n<pre>\\nConnection conn = null;\\nStatement stmt = null;\\ntry{\\n  conn = DriverManager.getConnection(DB_URL,USER,PASS);\\n  stmt = conn.createStatement();\\n  // ...\\n\\n}catch(Exception e){\\n  e.printStackTrace();\\n}finally{\\n  stmt.close();   // Noncompliant; stmt could be null if an exception was thrown in the try{} block\\n  conn.close();  // Noncompliant; conn could be null if an exception was thrown\\n}\\n</pre>\\n<pre>\\nprivate void merge(@Nonnull Color firstColor, @Nonnull Color secondColor){...}\\n\\npublic  void append(@CheckForNull Color color) {\\n    merge(currentColor, color);  // Noncompliant; color should be null-checked because merge(...) doesn't accept nullable parameters\\n}\\n</pre>\\n<pre>\\nvoid paint(Color color) {\\n  if(color == null) {\\n    System.out.println(\\\"Unable to apply color \\\" + color.toString());  // Noncompliant; NullPointerException will be thrown\\n    return;\\n  }\\n  ...\\n}\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/476.html\\\">MITRE, CWE-476</a> - NULL Pointer Dereference </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/PAw\\\">CERT, EXP34-C.</a> - Do not dereference null pointers </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/ZwDOAQ\\\">CERT, EXP01-J.</a> - Do not use a null in a case where an object is required\\n  </li>\\n</ul>\",\"mdDesc\":\"<p>A reference to <code>null</code> should never be dereferenced/accessed. Doing so will cause a <code>NullPointerException</code> to be thrown. At\\nbest, such an exception will cause abrupt program termination. At worst, it could expose debugging information that would be useful to an attacker, or\\nit could allow an attacker to bypass security measures.</p>\\n<p>Note that when they are present, this rule takes advantage of <code>@CheckForNull</code> and <code>@Nonnull</code> annotations defined in <a\\nhref=\\\"https://jcp.org/en/jsr/detail?id=305\\\">JSR-305</a> to understand which values are and are not nullable except when <code>@Nonnull</code> is used\\non the parameter to <code>equals</code>, which by contract should always work with null.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\n@CheckForNull\\nString getName(){...}\\n\\npublic boolean isNameEmpty() {\\n  return getName().length() == 0; // Noncompliant; the result of getName() could be null, but isn't null-checked\\n}\\n</pre>\\n<pre>\\nConnection conn = null;\\nStatement stmt = null;\\ntry{\\n  conn = DriverManager.getConnection(DB_URL,USER,PASS);\\n  stmt = conn.createStatement();\\n  // ...\\n\\n}catch(Exception e){\\n  e.printStackTrace();\\n}finally{\\n  stmt.close();   // Noncompliant; stmt could be null if an exception was thrown in the try{} block\\n  conn.close();  // Noncompliant; conn could be null if an exception was thrown\\n}\\n</pre>\\n<pre>\\nprivate void merge(@Nonnull Color firstColor, @Nonnull Color secondColor){...}\\n\\npublic  void append(@CheckForNull Color color) {\\n    merge(currentColor, color);  // Noncompliant; color should be null-checked because merge(...) doesn't accept nullable parameters\\n}\\n</pre>\\n<pre>\\nvoid paint(Color color) {\\n  if(color == null) {\\n    System.out.println(\\\"Unable to apply color \\\" + color.toString());  // Noncompliant; NullPointerException will be thrown\\n    return;\\n  }\\n  ...\\n}\\n</pre>\\n<h2>See</h2>\\n<ul>\\n  <li> <a href=\\\"http://cwe.mitre.org/data/definitions/476.html\\\">MITRE, CWE-476</a> - NULL Pointer Dereference </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/PAw\\\">CERT, EXP34-C.</a> - Do not dereference null pointers </li>\\n  <li> <a href=\\\"https://www.securecoding.cert.org/confluence/x/ZwDOAQ\\\">CERT, EXP01-J.</a> - Do not use a null in a case where an object is required\\n  </li>\\n</ul>\",\"severity\":\"MAJOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"cert\",\"cwe\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"10min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"10min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"10min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"10min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"BUG\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    },
+    {
+      "request": {
+        "url": "/api/rules/search?organization=default-organization&rule_key=squid:S1155",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"total\":1,\"p\":1,\"ps\":100,\"rules\":[{\"key\":\"squid:S1155\",\"repo\":\"squid\",\"name\":\"Collection.isEmpty() should be used to test for emptiness\",\"createdAt\":\"2019-11-02T15:21:47+0000\",\"htmlDesc\":\"<p>Using <code>Collection.size()</code> to test for emptiness works, but using <code>Collection.isEmpty()</code> makes the code more readable and can\\nbe more performant. The time complexity of any <code>isEmpty()</code> method implementation should be <code>O(1)</code> whereas some implementations\\nof <code>size()</code> can be <code>O(n)</code>.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nif (myCollection.size() == 0) {  // Noncompliant\\n  /* ... */\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nif (myCollection.isEmpty()) {\\n  /* ... */\\n}\\n</pre>\",\"mdDesc\":\"<p>Using <code>Collection.size()</code> to test for emptiness works, but using <code>Collection.isEmpty()</code> makes the code more readable and can\\nbe more performant. The time complexity of any <code>isEmpty()</code> method implementation should be <code>O(1)</code> whereas some implementations\\nof <code>size()</code> can be <code>O(n)</code>.</p>\\n<h2>Noncompliant Code Example</h2>\\n<pre>\\nif (myCollection.size() == 0) {  // Noncompliant\\n  /* ... */\\n}\\n</pre>\\n<h2>Compliant Solution</h2>\\n<pre>\\nif (myCollection.isEmpty()) {\\n  /* ... */\\n}\\n</pre>\",\"severity\":\"MINOR\",\"status\":\"READY\",\"isTemplate\":false,\"tags\":[],\"sysTags\":[\"clumsy\"],\"lang\":\"java\",\"langName\":\"Java\",\"params\":[],\"defaultDebtRemFnType\":\"CONSTANT_ISSUE\",\"defaultDebtRemFnOffset\":\"2min\",\"debtOverloaded\":false,\"debtRemFnType\":\"CONSTANT_ISSUE\",\"debtRemFnOffset\":\"2min\",\"defaultRemFnType\":\"CONSTANT_ISSUE\",\"defaultRemFnBaseEffort\":\"2min\",\"remFnType\":\"CONSTANT_ISSUE\",\"remFnBaseEffort\":\"2min\",\"remFnOverloaded\":false,\"scope\":\"MAIN\",\"isExternal\":false,\"type\":\"CODE_SMELL\"}]}",
+        "headers": {
+          "content-type": "application/json",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    }
+  ]
+}

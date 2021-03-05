@@ -1,0 +1,2 @@
+The file licenses.xml as well as the contents in licenses folder were generated using "mvn license:aggregate-download-licenses"
+and show the used maven dependencies and their license texts.

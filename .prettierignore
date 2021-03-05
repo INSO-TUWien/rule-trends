@@ -1,0 +1,10 @@
+node
+node_modules
+target
+.idea
+conf
+coverage
+mappings
+dist
+scripts
+cypress/integration/examples

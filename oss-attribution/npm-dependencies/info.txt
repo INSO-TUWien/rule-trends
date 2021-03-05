@@ -1,0 +1,3 @@
+The files attribution.txt and licenseInfos.json were generated using the "generate-attribution"-command
+of oss-attribution-generator (https://www.npmjs.com/package/oss-attribution-generator)
+and lists used dependencies that were installed using npm and their license texts.

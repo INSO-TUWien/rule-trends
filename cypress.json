@@ -1,0 +1,12 @@
+{
+  "experimentalComponentTesting": true,
+  "fixturesFolder": "cypress/fixtures",
+  "componentFolder": "src",
+  "testFiles": "**/*.spec.ts*",
+  "video": false,
+  "ignoreTestFiles": [
+    "**/examples/*",
+    "**/__snapshots__/*",
+    "**/__image_snapshots__/*"
+  ]
+}
